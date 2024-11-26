@@ -1,5 +1,5 @@
 {
-    "name": "devforest/laravel-dynamic-report-generator",
+    "name": "iidestiny/laravel-dynamic-report-generator",
     "description": "A package for dynamic report generation with drag-and-drop interface in Laravel",
     "type": "library",
     "license": "MIT",
